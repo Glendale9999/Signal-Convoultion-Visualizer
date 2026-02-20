@@ -1,5 +1,6 @@
 # Auto - Case Convolution Calculator
 
+
 ## Description
 This mini project is a python-based visualization tool 
 that helps engineering students to understand the convolution process
@@ -10,16 +11,25 @@ both x(t) and h(t-tau) graph in different overlap auto-casses
 to facilitate convolution understanding
 
 
+
+
+
 ## Motivation
 Struggling understand signal processing, especially convolution.
 In addition, other convolution calculator in website does not showing the process by each case (overlapping area),
 therefore just made a simple graphing tool that shows convolution for all the cases.
 
 
+
+
+
 ## Before Use
 Need to download two libraries
 1. numpy
 2. matplotlib
+
+
+
 
 
 ## How to run
